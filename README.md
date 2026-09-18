@@ -36,24 +36,19 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 - Designed and deployed a multi-container stack: Nginx (TLS v1.2/v1.3), WordPress (PHP-FPM), and MariaDB.
 - Built custom Dockerfiles for each service from base Linux images without relying on pre-made Docker Hub service images.
 - Managed persistent Docker volumes, custom network isolation, and environment variables security.
-  
+
 #### 🐚 [minishell](https://github.com/norabino/minishell)
 *An implementation of a UNIX command-line interpreter in C.*
 - Built process management (`fork`, `execve`), signal handling, pipes (`|`), and redirections (`<`, `>`, `>>`).
 - Rigorous memory management and leak detection using Valgrind.
 
-  ## Overview des Modules C++
-
-* **CPP Module 00** : Bases du C++98, namespaces, classes, fonctions membres, flux stdio (`std::cin`/`std::cout`) et listes d'initialisation.
-* **CPP Module 01** : Allocation mémoire dynamique (`new`/`delete`), pointeurs vers membres, références et instruction `switch`.
-* **CPP Module 02** : Forme canonique orthodoxe, surcharge d'opérateurs et gestion des nombres à point fixe.
-* **CPP Module 03** : Concepts de l'héritage, sous-classes et réutilisation de code.
-* **CPP Module 04** : Polymorphisme sous-typage, fonctions virtuelles, classes abstraites et interfaces.
-* **CPP Module 05** : Gestion des erreurs et des cas limites via les exceptions C++ (`try`, `catch` et exceptions personnalisées).
-* **CPP Module 06** : Transtypage C++ (`static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`) et identification de types.
-* **CPP Module 07** : Programmation générique à l'aide des modèles (templates) de fonctions et de classes.
-* **CPP Module 08** : Découverte et utilisation des conteneurs, itérateurs et algorithmes de la STL.
-* **CPP Module 09** : Utilisation avancée des conteneurs STL à travers des algorithmes complexes (RPN, Bitcoin Exchange, Ford-Johnson/PmergeMe).
+#### ⚙️ [CPP Modules (00 to 09)](https://github.com/norabino/cpp_modules)
+*Comprehensive suite of 10 projects mastering Object-Oriented Programming, memory management, and STL in C++98.*
+- **CPP 00 - 01:** Fundamentals of C++98, namespaces, class design, dynamic allocation (`new`/`delete`), and references.
+- **CPP 02 - 03:** Orthodox Canonical Form, operator overloading, fixed-point numbers, and inheritance mechanics.
+- **CPP 04 - 05:** Subtype polymorphism, abstract classes, interfaces, and exception handling (`try`/`catch`).
+- **CPP 06 - 07:** C++ type casting (`static_cast`, `dynamic_cast`, etc.) and generic programming via templates.
+- **CPP 08 - 09:** Advanced STL containers, iterators, and complex algorithms (RPN, Bitcoin Exchange, Ford-Johnson).
 
 #### 🛡️ [Born2beroot](https://github.com/norabino/born2beroot)
 *System administration & security hardening on a Debian virtual server.*
