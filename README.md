@@ -12,7 +12,7 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 ### Technical Toolkit
 
 - **Languages:** C, C++, Shell/Bash, JavaScript, HTML5/CSS3
-- **Systems & Networks:** Linux/Unix, TCP/IP Sockets, Debian, SSH, LVM, UFW, Sudoers
+- **Systems, DevOps & Networks:** Linux/Unix, Docker, Docker Compose, TCP/IP Sockets, Debian, SSH, LVM, UFW, Sudoers
 - **Quality & Debugging:** Valgrind, GDB, Unit Testing, Makefiles, Git, VS Code
 - **Web & Data:** REST APIs, WebSockets, SQL (Basics)
 - **Methodologies:** Peer-Learning, Code Reviews, Agile / Kanban
