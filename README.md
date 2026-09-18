@@ -42,7 +42,7 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 - Built process management (`fork`, `execve`), signal handling, pipes (`|`), and redirections (`<`, `>`, `>>`).
 - Rigorous memory management and leak detection using Valgrind.
 
-#### ⚙️ [CPP Modules (00 to 09)](https://github.com/norabino/cpp_modules)
+#### ⚙️ [CPP Modules (00 to 09)](https://github.com/norabino/CPP)
 *Comprehensive suite of 10 projects mastering Object-Oriented Programming, memory management, and STL in C++98.*
 - **CPP 00 - 01:** Fundamentals of C++98, namespaces, class design, dynamic allocation (`new`/`delete`), and references.
 - **CPP 02 - 03:** Orthodox Canonical Form, operator overloading, fixed-point numbers, and inheritance mechanics.
