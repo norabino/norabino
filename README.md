@@ -31,12 +31,18 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 - Implemented multiplexed non-blocking TCP/IP sockets (`poll`/`select`) to handle multiple concurrent clients.
 - Managed user authentication, channel creation, operator privileges, and message routing.
 
-#### 🐚 [minishell](https://github.com/norabino)
+#### 🐳 [Inception](https://github.com/norabino/Inception)
+*System administration & DevOps infrastructure built from scratch with Docker & Docker Compose.*
+- Designed and deployed a multi-container stack: Nginx (TLS v1.2/v1.3), WordPress (PHP-FPM), and MariaDB.
+- Built custom Dockerfiles for each service from base Linux images without relying on pre-made Docker Hub service images.
+- Managed persistent Docker volumes, custom network isolation, and environment variables security.
+  
+#### 🐚 [minishell](https://github.com/norabino/minishell)
 *An implementation of a UNIX command-line interpreter in C.*
 - Built process management (`fork`, `execve`), signal handling, pipes (`|`), and redirections (`<`, `>`, `>>`).
 - Rigorous memory management and leak detection using Valgrind.
 
-#### 🛡️ [Born2beroot](https://github.com/norabino)
+#### 🛡️ [Born2beroot](https://github.com/norabino/born2beroot)
 *System administration & security hardening on a Debian virtual server.*
 - Structured storage with LVM, configured UFW firewall, tightened SSH rules, and defined Sudoers policies.
 - Automated server monitoring via custom Shell scripts.
