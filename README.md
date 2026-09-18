@@ -42,6 +42,19 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 - Built process management (`fork`, `execve`), signal handling, pipes (`|`), and redirections (`<`, `>`, `>>`).
 - Rigorous memory management and leak detection using Valgrind.
 
+  ## Overview des Modules C++
+
+* **CPP Module 00** : Bases du C++98, namespaces, classes, fonctions membres, flux stdio (`std::cin`/`std::cout`) et listes d'initialisation.
+* **CPP Module 01** : Allocation mémoire dynamique (`new`/`delete`), pointeurs vers membres, références et instruction `switch`.
+* **CPP Module 02** : Forme canonique orthodoxe, surcharge d'opérateurs et gestion des nombres à point fixe.
+* **CPP Module 03** : Concepts de l'héritage, sous-classes et réutilisation de code.
+* **CPP Module 04** : Polymorphisme sous-typage, fonctions virtuelles, classes abstraites et interfaces.
+* **CPP Module 05** : Gestion des erreurs et des cas limites via les exceptions C++ (`try`, `catch` et exceptions personnalisées).
+* **CPP Module 06** : Transtypage C++ (`static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`) et identification de types.
+* **CPP Module 07** : Programmation générique à l'aide des modèles (templates) de fonctions et de classes.
+* **CPP Module 08** : Découverte et utilisation des conteneurs, itérateurs et algorithmes de la STL.
+* **CPP Module 09** : Utilisation avancée des conteneurs STL à travers des algorithmes complexes (RPN, Bitcoin Exchange, Ford-Johnson/PmergeMe).
+
 #### 🛡️ [Born2beroot](https://github.com/norabino/born2beroot)
 *System administration & security hardening on a Debian virtual server.*
 - Structured storage with LVM, configured UFW firewall, tightened SSH rules, and defined Sudoers policies.
