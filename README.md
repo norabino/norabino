@@ -21,12 +21,12 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 
 ### Featured 42 School Projects
 
-#### 🌐 [ft_transcendence](https://github.com/norabino)
+#### 🌐 [ft_transcendence](https://github.com/norabino/ft_transcendence)
 *Full-stack web application & LLM integration built in an Agile team.*
 - Developed a secure public REST API and integrated real-time WebSockets communication.
 - Connected an AI chatbot interface (LLM) for user assistance.
 
-#### 📡 [ft_irc](https://github.com/norabino)
+#### 📡 [ft_irc](https://github.com/norabino/ft_irc)
 *IRC server compliant with RFC standards written in C++ (OOP).*
 - Implemented multiplexed non-blocking TCP/IP sockets (`poll`/`select`) to handle multiple concurrent clients.
 - Managed user authentication, channel creation, operator privileges, and message routing.
