@@ -49,8 +49,3 @@ Student at École 42 Perpignan specializing in **Backend Development (C/C++)**, 
 - **CPP 04 - 05:** Subtype polymorphism, abstract classes, interfaces, and exception handling (`try`/`catch`).
 - **CPP 06 - 07:** C++ type casting (`static_cast`, `dynamic_cast`, etc.) and generic programming via templates.
 - **CPP 08 - 09:** Advanced STL containers, iterators, and complex algorithms (RPN, Bitcoin Exchange, Ford-Johnson).
-
-#### 🛡️ [Born2beroot](https://github.com/norabino/born2beroot)
-*System administration & security hardening on a Debian virtual server.*
-- Structured storage with LVM, configured UFW firewall, tightened SSH rules, and defined Sudoers policies.
-- Automated server monitoring via custom Shell scripts.
